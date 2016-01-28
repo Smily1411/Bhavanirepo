@@ -5,3 +5,5 @@ Changes to the file in GITHUB
 Changes to the file for branch changes in local
 
 Changes to the file for JIRA integration on branch featurebranchforjira
+
+Changes to the file for smart commit
